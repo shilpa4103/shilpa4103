@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Programming,Frontend Development**
 
-- 📫 How to reach me **shilpashree4103@gmail.com**
+- 📫 Reach out to me at **shilpashree4103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
