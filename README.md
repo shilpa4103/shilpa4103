@@ -1,7 +1,6 @@
 <h1 align="center">Hi,I am Shilpashree</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://twitter.com/@shilpashree_" target="blank"><img src="https://img.shields.io/twitter/follow/@shilpashree_?logo=twitter&style=for-the-badge" alt="@shilpashree_" /></a> </p>
 
 - 🔭 I’m currently working on **Backend Development**
 
